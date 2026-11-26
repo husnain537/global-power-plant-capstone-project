@@ -2,7 +2,7 @@
 
 **Author:** Husnain Zahoor | Riyadh, Saudi Arabia | Lumen Data Analytics Program, capstone project
 
-**Live storyboard (Tableau Public):** https://tinyurl.com/5n8ucwej
+**Live storyboard (Tableau Public):** https://public.tableau.com/app/profile/husnain.zahoor/viz/Power_Plants_Storyboard/PowerplantscapacityoutputandtheSaudidatagap?publish=yes
 
 ## What this project asks
 
