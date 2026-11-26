@@ -33,17 +33,13 @@ Obtain plant-level generation from official Saudi sources (for example ECRA or K
 ## Repository structure
 
 ```
-notebooks/       Python notebooks (Google Colab), one per technique
-
-data/cleaned/    cleaned plant table, consistency checks, clustering files
-
-tableau/         small files prepared for the Tableau storyboard
-
-substitute\_eia/ EIA monthly series used for the time series practice
-
-outputs/         charts and the interactive capacity map (HTML)
-
-docs/            running findings document and research brief
+notebooks/   Python notebooks (Google Colab), one per technique
+data/
+  cleaned/       cleaned plant table, consistency checks, clustering files
+  tableau/       small files prepared for the Tableau storyboard
+  substitute_eia/  EIA monthly series used for the time series practice
+outputs/     charts and the interactive capacity map (HTML)
+docs/        running findings document and research brief
 ```
 
 |Notebook|What it does|
