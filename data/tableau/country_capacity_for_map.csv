@@ -1,0 +1,165 @@
+country,country_long,capacity_mw
+CHN,China,1363282.78
+USA,United States of America,1193616.45
+IND,India,288694.11
+RUS,Russia,227555.55
+JPN,Japan,211667.75
+BRA,Brazil,145788.47
+CAN,Canada,143455.2
+FRA,France,109285.33
+DEU,Germany,109162.77
+KOR,South Korea,99406.78
+GBR,United Kingdom,87418.18
+SAU,Saudi Arabia,84218.55
+ESP,Spain,76166.57
+ITA,Italy,71573.96
+AUS,Australia,65731.17
+IRN,Iran,61288.1
+MEX,Mexico,59700.5
+TUR,Turkey,50786.1
+ZAF,South Africa,50172.3
+IDN,Indonesia,48751.42
+UKR,Ukraine,47854.0
+VNM,Vietnam,39734.09
+THA,Thailand,39344.1
+POL,Poland,37902.0
+TWN,Taiwan,37097.56
+EGY,Egypt,33424.0
+NOR,Norway,32551.0
+ARG,Argentina,32400.58
+VEN,Venezuela,31096.0
+ARE,United Arab Emirates,29607.0
+MYS,Malaysia,28589.5
+SWE,Sweden,26418.7
+PAK,Pakistan,21177.6
+PHL,Philippines,20230.1
+CHL,Chile,19047.75
+KAZ,Kazakhstan,18408.0
+IRQ,Iraq,18160.6
+KWT,Kuwait,17819.5
+CZE,Czech Republic,16841.8
+NLD,Netherlands,16748.59
+DZA,Algeria,15203.0
+GRC,Greece,14549.55
+ISR,Israel,14472.8
+PRT,Portugal,14413.76
+ROU,Romania,14175.0
+SGP,Singapore,13660.0
+BEL,Belgium,13288.6
+CHE,Switzerland,13097.8
+UZB,Uzbekistan,12540.0
+BGD,Bangladesh,11807.0
+FIN,Finland,11796.76
+AUT,Austria,11227.1
+COL,Colombia,10828.0
+QAT,Qatar,10548.0
+PRK,North Korea,9208.0
+BGR,Bulgaria,8973.0
+PRY,Paraguay,8760.0
+MAR,Morocco,8674.56
+BLR,Belarus,8302.0
+SYR,Syrian Arab Republic,7966.0
+SRB,Serbia,7958.0
+DNK,Denmark,7897.2
+IRL,Ireland,7582.15
+BHR,Bahrain,7581.3
+PER,Peru,7271.6
+NZL,New Zealand,6674.55
+NGA,Nigeria,6250.0
+LBY,Libya,6231.0
+SVK,Slovakia,6206.86
+HUN,Hungary,6206.1
+AZE,Azerbaijan,5764.0
+TJK,Tajikistan,5296.4
+TUN,Tunisia,5052.2
+LAO,Laos,4986.86
+OMN,Oman,4872.0
+URY,Uruguay,4209.12
+ECU,Ecuador,4195.48
+JOR,Jordan,4136.0
+ETH,Ethiopia,4023.9
+BIH,Bosnia and Herzegovina,3985.5
+MMR,Myanmar,3937.1
+GEO,Georgia,3831.4
+CUB,Cuba,3787.8
+LKA,Sri Lanka,3695.7
+GTM,Guatemala,3659.1
+KGZ,Kyrgyzstan,3634.0
+LTU,Lithuania,3490.8
+TKM,Turkmenistan,3454.0
+HRV,Croatia,3274.5
+ARM,Armenia,3271.0
+COD,Democratic Republic of the Congo,3057.04
+MDA,Moldova,2914.0
+SDN,Sudan,2798.11
+SVN,Slovenia,2736.0
+ZMB,Zambia,2641.84
+EST,Estonia,2541.9
+LVA,Latvia,2537.0
+ISL,Iceland,2484.6
+KEN,Kenya,2430.2
+MOZ,Mozambique,2285.0
+TTO,Trinidad and Tobago,2144.6
+GHA,Ghana,2088.0
+LBN,Lebanon,2070.3
+CRI,Costa Rica,1963.4
+HND,Honduras,1880.97
+DOM,Dominican Republic,1775.09
+LUX,Luxembourg,1681.0
+ZWE,Zimbabwe,1670.0
+PAN,Panama,1605.3
+ALB,Albania,1529.0
+BOL,Bolivia,1502.52
+KHM,Cambodia,1494.8
+BTN,Bhutan,1482.2
+KOS,Kosovo,1478.0
+CYP,Cyprus,1468.0
+MKD,Macedonia,1362.6
+CIV,Cote DIvoire,1203.0
+SLV,El Salvador,1148.5
+AGO,Angola,1071.18
+YEM,Yemen,1045.0
+TZA,Tanzania,994.5
+MUS,Mauritius,892.37
+MNE,Montenegro,885.5
+CMR,Cameroon,881.58
+MNG,Mongolia,854.0
+NIC,Nicaragua,850.8
+JAM,Jamaica,772.5
+BWA,Botswana,746.0
+UGA,Uganda,728.5
+COG,Congo,625.9
+SEN,Senegal,590.46
+BRN,Brunei Darussalam,586.0
+NPL,Nepal,557.95
+GIN,Guinea,510.42
+GAB,Gabon,446.81
+NAM,Namibia,430.5
+PNG,Papua New Guinea,406.9
+MWI,Malawi,369.1
+MDG,Madagascar,334.93
+FJI,Fiji,317.38
+MRT,Mauritania,315.8
+MLI,Mali,311.5
+AFG,Afghanistan,280.55
+GUF,French Guiana,247.6
+TGO,Togo,195.11
+RWA,Rwanda,193.68
+BFA,Burkina Faso,176.41
+NER,Niger,160.2
+GNQ,Equatorial Guinea,150.5
+GUY,Guyana,136.3
+ERI,Eritrea,133.19
+SLE,Sierra Leone,126.0
+DJI,Djibouti,107.33
+SWZ,Swaziland,94.8
+CPV,Cape Verde,87.8
+LBR,Liberia,73.3
+LSO,Lesotho,72.0
+GMB,Gambia,70.4
+BEN,Benin,60.5
+BDI,Burundi,49.57
+CAF,Central African Republic,33.66
+ESH,Western Sahara,23.4
+GNB,Guinea-Bissau,18.24
+ATA,Antarctica,7.6

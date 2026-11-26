@@ -1,0 +1,6 @@
+Model,R2 Test,R2 Train,RMSE Log
+Capacity only,0.693,0.691,1.376
+Fuel only,0.423,0.445,1.886
+Build year only,0.005,0.014,2.476
+Capacity + fuel,0.791,0.798,1.134
+Capacity + fuel + build year,0.793,0.799,1.129
