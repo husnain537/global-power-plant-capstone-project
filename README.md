@@ -2,7 +2,7 @@
 
 **Author:** Husnain Zahoor | Riyadh, Saudi Arabia | Lumen Data Analytics Program, capstone project
 
-**Live storyboard (Tableau Public):** https://tinyurl.com/y5hbb52n
+**Live storyboard (Tableau Public):** https://tinyurl.com/5n8ucwej
 
 ## What this project asks
 
